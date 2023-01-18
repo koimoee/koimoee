@@ -1,16 +1,20 @@
-### Hi there 👋
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/rinxyzz" alt="Profile Stars"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/rinxyzz" alt="Profile Forks"></a>
+<p align="center"><a href="https://discord.gg/S7sb24pCzn" target="_blank"><img src="https://discordapp.com/api/guilds/1009384971191988224/widget.png?style=shield" alt="shield.png"></a></p></p>
 
-<!--
-**rinxyzz/rinxyzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+print(f'Follow {rinxyzz} on Github')
+	@@ -10,13 +10,13 @@ print(f'Follow {rinxyzz} on Github')
+```python
+       OS  :  win11
+   Python  :  python 3.9.12
+Languages  :  Python, Java, Js, Batch, C, HTML/CSS
+  Discord  :  886971572668219392
+   Server  :  1009384971191988224
+```
 
-Here are some ideas to get you started:
+```json
+Knowledge is power.
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://discord.gg/w8FBRVBrbX" target="_blank"><img src="https://github.com/AstraaDev/AstraaDev/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
