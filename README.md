@@ -11,6 +11,7 @@ print(f'Follow {rinxyzz} on Github')
 ```
 	
 ```python
+     Name  :  Rin Schariac`s
        OS  :  win11
    Python  :  python 3.9.12
 Languages  :  Python, Java, Js, Batch, C, HTML/CSS
