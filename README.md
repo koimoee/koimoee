@@ -1,7 +1,7 @@
 <p align="center"><img src="https://gpvc.arturio.dev/AstraaDev" alt="Visitors"></a>
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/rinxyzz" alt="Profile Stars"></a>
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/rinxyzz" alt="Profile Forks"></a>
-<p align="center"><a href="https://discord.gg/S7sb24pCzn" target="_blank"><img src="https://discordapp.com/api/guilds/1009384971191988224/widget.png?style=shield" alt="shield.png"></a></p></p>
+<p align="center"><a href="https://discord.gg/w8FBRVBrbX" target="_blank"><img src="https://discordapp.com/api/guilds/315581703139885060/widget.png?style=shield" alt="shield.png"></a></p></p>
 
 ```python
 print(f'Follow {rinxyzz} on Github')
