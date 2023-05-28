@@ -12,7 +12,7 @@ print(f'Follow {rinxyzz} on Github')
 	
 ```python
      Name  :  Rin Schariac`s
-       OS  :  win11
+       OS  :  win11 64bit - Arch Linux 64bit 6.3.2-zen1-1-zen Gnome 44.1
    Python  :  python 3.9.12
 Languages  :  Python, Java, Kotlin, Js, Batch, C, HTML/CSS
   Discord  :  886971572668219392
