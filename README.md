@@ -1,3 +1,10 @@
+<div id="latenightreader" align="center">
+<h3> Hi there, I'm <a href="https://rin4ever.xyz">Rin</a> 👋 </h3>
+<p align="center">
+<br>
+  <a href="https://discord.com/users/886971572668219392"><img height="80px" src="https://discord.c99.nl/widget/theme-4/886971572668219392.png"/></a>
+  <br><br>
+  </p>
 <p align="center"><img alt="Custom badge" src="https://img.shields.io/endpoint?color=black&logo=Android%20Studio&logoColor=white&url=https%3A%2F%2Fraw.githubusercontent.com%2Frinxyzz%2Frinxyzz%2Fmain%2Fendpointv4" alt="Visitors"></a>
 <p align="center"><a href="https://discord.com/users/886971572668219392" target="_blank"><img alt="Code" src="https://img.shields.io/endpoint?label=Code&logo=CodersRank&logoColor=white&url=https%3A%2F%2Fraw.githubusercontent.com%2Frinxyzz%2Frinxyzz%2Fmain%2Fendpointv2">
 <p align="center"><a href="https://discord.com/users/886971572668219392" target="_blank"><img alt="Discord" src="https://img.shields.io/endpoint?label=Discord&logo=Discord&logoColor=white&url=https%3A%2F%2Fraw.githubusercontent.com%2Frinxyzz%2Frinxyzz%2Fmain%2Fendpoint">
