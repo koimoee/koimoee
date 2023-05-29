@@ -12,6 +12,8 @@
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/rinxyzz" alt="Profile Forks"></a>
 <p align="center"><a href="https://discord.gg/w8FBRVBrbX" target="_blank"><img src="https://discordapp.com/api/guilds/315581703139885060/widget.png?style=shield" alt="shield.png"></a></p></p>
 
+</div>
+
 ```python
 print(f'Follow {rinxyzz} on Github')
 	@@ -10,13 +10,13 @@ print(f'Follow {rinxyzz} on Github')
