@@ -6,6 +6,9 @@
   <br><br>
   </p>
 <p align="center"><img alt="Custom badge" src="https://img.shields.io/endpoint?color=black&logo=Android%20Studio&logoColor=white&url=https%3A%2F%2Fraw.githubusercontent.com%2Frinxyzz%2Frinxyzz%2Fmain%2Fendpointv4" alt="Visitors"></a>
+
+![Custom badge](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fraw.githubusercontent.com%2Frinxyzz%2Frinxyzz%2Fmain%2Fendpoint)
+
 <p align="center"><a href="https://discord.gg/w8FBRVBrbX" target="_blank"><img src="https://discordapp.com/api/guilds/315581703139885060/widget.png?style=shield" alt="shield.png"></a></p></p>
 </div>
 
