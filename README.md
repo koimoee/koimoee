@@ -7,7 +7,7 @@
   </p>
 </div>
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/w8FBRVBrbX) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22070233) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/latenightreader) [![](https://visitcount.itsvg.in/api?id=torvalds&icon=1&color=8)](https://visitcount.itsvg.in) ![](https://img.shields.io/endpoint?color=black&logo=Android%20Studio&logoColor=white&url=https%3A%2F%2Fraw.githubusercontent.com%2Frinxyzz%2Frinxyzz%2Fmain%2Fendpointv4) ![Custom badge](https://img.shields.io/endpoint?color=black&style=plastic&url=https%3A%2F%2Fraw.githubusercontent.com%2Frinxyzz%2Frinxyzz%2Fmain%2Fendpoint)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/w8FBRVBrbX) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22070233) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/latenightreader) ![](https://visitcount.itsvg.in/api?id=rinxyzz&label=Visitors&color=9&icon=8&pretty=true) ![](https://img.shields.io/endpoint?color=black&logo=Android%20Studio&logoColor=white&url=https%3A%2F%2Fraw.githubusercontent.com%2Frinxyzz%2Frinxyzz%2Fmain%2Fendpointv4) ![Custom badge](https://img.shields.io/endpoint?color=black&style=plastic&url=https%3A%2F%2Fraw.githubusercontent.com%2Frinxyzz%2Frinxyzz%2Fmain%2Fendpoint)
 
 ```python
 print(f'Follow {rinxyzz} on Github')
