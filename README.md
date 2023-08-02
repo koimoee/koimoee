@@ -1,5 +1,5 @@
 <div id="latenightreader" align="center">
-<h3> Hi there, I'm <a href="https://rin4ever.xyz">Rin</a> 👋 </h3>
+<h3> Hi there, I'm <a href="https://rin4ever.xyz">Mika!</a> 👋 </h3>
 <p align="center">
 <br>
   <a href="https://discord.com/users/886971572668219392"><img height="80px" src="https://discord.c99.nl/widget/theme-4/886971572668219392.png"/></a>
@@ -15,13 +15,13 @@ print(f'Follow {rinxyzz} on Github')
 ```
 	
 ```python
-     Name  :  Rin Schariac`s
+     Name  :  Hymika
        OS  :  win11 64bit - Arch Linux 64bit 6.3.2-zen1-1-zen Gnome 44.1
    Python  :  python 3.9.12
 Languages  :  Python, Java, Kotlin, Js, Batch, C, HTML/CSS
   Discord  :  886971572668219392
    Server  :  1009384971191988224
-  Website  :  rin4ever.xyz
+  Website  :  rin4ever.xyz / thisrealhymika.github.io
 ```
 
 ```json
