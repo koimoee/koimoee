@@ -1,24 +1,29 @@
-<div id="SealedSaucer" align="center">
-  <h3> Hi there, I'm <a href="https://phantom.is-a.dev">Phantom</a> 👋 </h3>
+<div id="mika" align="center">
+  <h3> Hi there, I'm <a href="https://rin4ever.xyz">Mika</a> 👋 </h3>
   <br>
-  <a href="https://discord.com/users/149537074628788224"><img height="80px" src="https://discord.c99.nl/widget/theme-4/149537074628788224.png"/></a>
+  <a href="https://discord.com/users/886971572668219392"><img height="80px" src="https://discord.c99.nl/widget/theme-4/886971572668219392.png"/></a>
   <br><br>
-  <a href="https://phantom.is-a.dev"><img src="https://img.shields.io/website?label=phantom.is-a.dev&style=for-the-badge&url=https%3A%2F%2Fphantom.is-a.dev"></a>
+  <a href="https://rin4ever.xyz"><img src="https://img.shields.io/website?label=thisrealhymika&style=for-the-badge&url=https%3A%2F%2Frin4ever.xyz"></a>
   <a href="https://discord.gg/URnjwD6tW5"><img src="https://img.shields.io/discord/731756511138807879?label=discord&logo=discord&logoColor=white&style=for-the-badge"></a>
-  <a href="https://phantom.sellix.io"><img src="https://img.shields.io/badge/SELLIX-PHANTOM.SELLIX.IO-5e40e4?style=for-the-badge"></a>
+  <a href="https://blog.rin4ever.xyz"><img src="https://img.shields.io/badge/BLOG.HYMIKA-5e40e4?style=for-the-badge"></a>
+
+```python
+print(f'Follow {thisrealhymika} on Github')
+	@@ -10,13 +10,13 @@ print(f'Follow {thisrealhymika} on Github')
+```
 
 ---
 
 <h3>Socials</h3>
 
 <div>
-    <a href="https://phantom.is-a.dev"><img src="https://i.imgur.com/HcY0gIm.png" height="25" width="25"></a>
+    <a href="https://rin4ever xyz"><img src="https://i.imgur.com/HcY0gIm.png" height="25" width="25"></a>
     &nbsp;
-    <a href="https://youtube.com/@SealedSaucer"><img src="https://i.imgur.com/WLd5nyq.png" height="25" width="25"></a>
+    <a href="https://youtube.com/@mikapikazo_"><img src="https://i.imgur.com/WLd5nyq.png" height="25" width="25"></a>
     &nbsp;
-    <a href="https://dsc.gg/phantom"><img src="https://i.imgur.com/CZU39q2.png" height="25" width="25"></a>
+    <a href="https://dsc.gg/realhymika"><img src="https://i.imgur.com/CZU39q2.png" height="25" width="25"></a>
     &nbsp;
-    <a href="https://instagram.com/SealedSaucer"><img src="https://i.imgur.com/SCTr4il.png" height="25" width="25"></a>
+    <a href="https://instagram.com/"><img src="https://i.imgur.com/SCTr4il.png" height="25" width="25"></a>
 </div>
 
 <h3>Languages and Tools</h3>
