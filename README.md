@@ -5,7 +5,7 @@
   <br><br>
   <a href="https://rin4ever.xyz"><img src="https://img.shields.io/website?label=thisrealhymika&style=for-the-badge&url=https%3A%2F%2Frin4ever.xyz"></a>
   <a href="https://discord.gg/URnjwD6tW5"><img src="https://img.shields.io/discord/731756511138807879?label=discord&logo=discord&logoColor=white&style=for-the-badge"></a>
-  <a href="https://blog.rin4ever.xyz"><img src="https://img.shields.io/badge/BLOG.HYMIKA-5e40e4?style=for-the-badge"></a>
+  <a href="https://blog.rin4ever.xyz"><img src="https://img.shields.io/badge/MAIN.BLOG.HYMIKAA-5e40e4?style=for-the-badge"></a>
 
 ```python
 print(f'Follow {thisrealhymika} on Github')
