@@ -1,0 +1,8 @@
+{
+  "desktopVersion": "1.0.0",
+  "desktopDownloadLink": "https://example.com/download/desktop.exe",
+  "mobileVersion": "1.0.0",
+  "mobileDownloadLink": "https://example.com/download/mobile.apk",
+  "tabletVersion": "1.0.0",
+  "tabletDownloadLink": "https://example.com/download/tablet.ipa"
+}
