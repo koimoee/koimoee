@@ -32,9 +32,27 @@ print(f'Follow {mikaaamoe} on Github')
 <div>
   <a href="https://developer.android.com"><img src="https://skillicons.dev/icons?i=androidstudio" height="26" width="26"></a>
   &nbsp;
-<a href="https://kotlinlang.org"><img src="https://skillicons.dev/icons?i=kotlin" height="26" width="26"></a>
+  <a href="https://gradle.org/"><img src="https://skillicons.dev/icons?i=gradle" height="26" width="26"></a>
+  &nbsp;
+  <a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" height="26" width="26"></a>
+  &nbsp;
+ <a href="https://aiscripts.com"><img src="https://skillicons.dev/icons?i=aiscript" height="26" width="26"></a>
+  &nbsp;
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="26" width="26"></a>
+  &nbsp;
+  <a href="https://kotlinlang.org"><img src="https://skillicons.dev/icons?i=kotlin" height="26" width="26"></a>
+  &nbsp;
+  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" height="26" width="26"></a>
   &nbsp;
   <a href="https://python.org"><img src="https://skillicons.dev/icons?i=python" height="26" width="26"></a>
+  &nbsp;
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" height="26" width="26"></a>
+  &nbsp;
+  <a href="https://unity.com/"><img src="https://skillicons.dev/icons?i=unity" height="26" width="26"></a>
+  &nbsp;
+  <a href="https://www.unrealengine.com/"><img src="https://skillicons.dev/icons?i=unreal" height="26" width="26"></a>
+  &nbsp;
+  <a href="https://www.w3schools.com/cs/index.php"><img src="https://skillicons.dev/icons?i=cs" height="26" width="26"></a>
   &nbsp;
   <a href="https://w3.org/html"><img src="https://skillicons.dev/icons?i=html" height="26" width="26"></a>
   &nbsp;
@@ -43,6 +61,8 @@ print(f'Follow {mikaaamoe} on Github')
   <a href="https://javascript.com"><img src="https://skillicons.dev/icons?i=javascript" height="26" width="26"></a>
   &nbsp;
   <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" height="26" width="26"></a>
+  &nbsp;
+  <a href="https://www.electronjs.org/"><img src="https://skillicons.dev/icons?i=electron" height="26" width="26"></a>
   &nbsp;
   <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" height="26" width="26"></a>
   &nbsp;
