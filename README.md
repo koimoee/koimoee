@@ -69,5 +69,6 @@ print(f'Follow {mikaaamoe} on Github')
   <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" height="26" width="26"></a>
   &nbsp;
   <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" height="26" width="26"></a>
+  &nbsp;
 </div>
 </div>
