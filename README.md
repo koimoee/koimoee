@@ -36,7 +36,7 @@ print(f'Follow {mikaaamoe} on Github')
   &nbsp;
   <a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" height="26" width="26"></a>
   &nbsp;
- <a href="https://aiscripts.com"><img src="https://skillicons.dev/icons?i=aiscript" height="26" width="26"></a>
+  <a href="https://aiscripts.com"><img src="https://skillicons.dev/icons?i=aiscript" height="26" width="26"></a>
   &nbsp;
   <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="26" width="26"></a>
   &nbsp;
