@@ -30,6 +30,10 @@ print(f'Follow {mikaaamoe} on Github')
 <h3>Languages and Tools</h3>
 
 <div>
+  <a href="https://developer.android.com"><img src="https://skillicons.dev/icons?i=androidstudio" height="26" width="26"></a>
+  &nbsp;
+<a href="https://kotlinlang.org"><img src="https://skillicons.dev/icons?i=kotlin" height="26" width="26"></a>
+  &nbsp;
   <a href="https://python.org"><img src="https://skillicons.dev/icons?i=python" height="26" width="26"></a>
   &nbsp;
   <a href="https://w3.org/html"><img src="https://skillicons.dev/icons?i=html" height="26" width="26"></a>
