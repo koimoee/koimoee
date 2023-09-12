@@ -4,7 +4,7 @@
 
   [![Discord Presence](https://lanyard.cnrad.dev/api/886971572668219392?bg=161B21&borderRadius=0px&showDisplayName=true&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/886971572668219392)
   <br>
-  <a href="https://mikapikazo.is-a.dev"><img src="https://img.shields.io/website?label=thisrealhymika&style=for-the-badge&url=https%3A%2F%2Fmikapikazo.is-a.dev"></a>
+  <a href="https://mikapikazo.is-a.dev"><img src="https://img.shields.io/website?label=mikaaamoe&style=for-the-badge&url=https%3A%2F%2Fmikapikazo.is-a.dev"></a>
   <a href="https://discord.com"><img src="https://img.shields.io/discord/731756511138807879?label=discord&logo=discord&logoColor=white&style=for-the-badge"></a>
   <a href="https://blog.rin4ever.xyz"><img src="https://img.shields.io/badge/MIKAPIKAZO.IS-A.DEV-5e40e4?style=for-the-badge"></a>
 
