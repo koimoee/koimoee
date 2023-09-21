@@ -1,12 +1,18 @@
-<div id="mika" align="center">
-  <h3> Hi there, I'm <a href="https://rin4ever.xyz">Mika</a> 👋 </h3>
-   <a> <img src="https://cdn.discordapp.com/attachments/1154339185956757524/1154355581591752755/20230921_164747.png" alt="surname" align="center" height="350%" width="35%"></a>
-  <br><br>
-  
-  [![Discord Presence](https://lanyard.cnrad.dev/api/886971572668219392?bg=0D1017&borderRadius=27px&showDisplayName=true&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/886971572668219392)
-  
-<h3>Social</h3>
+### Hello there 👋
+   <a> <img src="https://cdn.discordapp.com/attachments/1154339185956757524/1154355581591752755/20230921_164747.png" alt="surname" align="center" height="20%" width="20%"></a>
+<br>
 
+#### A Developer by day ☼ and a Laravel Community Contributor by night ☾
+
+A Developer at [WeFusionX](https://wfxlabs.rin4ever.xyz)<br>
+Host/Organizing [NorthMeetsSouth.audio](https://www.northmeetssouth.audio)<br>
+
+
+- ⚙️ I use daily: `.java`, `.js`, `.html`, `.css`, `.gradle`, `.kotlin`, `.ai`
+- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm)
+- 🌱 Learning all about **Open Source**
+
+### Related Link
 <div>
     <a href="https://rin4ever xyz"><img src="https://media.discordapp.net/attachments/1154339185956757524/1154347863053193337/replicate-prediction-2b3vhgjbq3wrbi2gmqpggdd6hm.png" height="25" width="25"></a>
     &nbsp;
@@ -16,9 +22,8 @@
     &nbsp;
 </div>
 
-<h3>Languages and Tools</h3>
-
-<div>
+### Languanges & Tools
+<div align="left" >
   <a href="https://developer.android.com"><img src="https://skillicons.dev/icons?i=androidstudio" height="26" width="26"></a>
   &nbsp;
   <a href="https://gradle.org/"><img src="https://skillicons.dev/icons?i=gradle" height="26" width="26"></a>
@@ -61,5 +66,9 @@
   &nbsp;
   <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" height="26" width="26"></a>
   &nbsp;
-</div>
-</div>
+  </div>
+ <br>
+  <a href="https://rin4ever.xyz/" >
+   <img src="https://lanyard.kyrie25.me/api/886971572668219392?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square&idleMessage=Probably%20doing%20something%20else..." height="35%" width="35%">
+  </a>
+  <br><br>
