@@ -1,12 +1,12 @@
 <div id="mika" align="center">
-  <h3> Hi there, I'm <a href="https://mikapikazo.is-a.dev">Mika</a> 👋 </h3>
-   <a href="#"><img src="https://cdn.discordapp.com/attachments/1154339185956757524/1154355581591752755/20230921_164747.png" align="center" height="350%" width="35%"></a>
-  &nbsp;
-  <br> <br>
-
+  <h3> Hi there, I'm <a href="https://rin4ever.xyz">Mika</a> 👋 </h3>
+   <a> <img src="https://cdn.discordapp.com/attachments/1154339185956757524/1154355581591752755/20230921_164747.png" alt="surname" align="center" height="350%" width="35%"></a>
+  <br><br>
+  
   [![Discord Presence](https://lanyard.cnrad.dev/api/886971572668219392?bg=0D1017&borderRadius=27px&showDisplayName=true&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/886971572668219392)
-
+  
 <h3>Social</h3>
+
 <div>
     <a href="https://rin4ever xyz"><img src="https://media.discordapp.net/attachments/1154339185956757524/1154347863053193337/replicate-prediction-2b3vhgjbq3wrbi2gmqpggdd6hm.png" height="25" width="25"></a>
     &nbsp;
