@@ -12,7 +12,7 @@ Host/Organizing [NorthMeetsSouth.audio](https://www.northmeetssouth.audio)<br>
 - 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm)
 - 🌱 Learning all about **Open Source**
 
-### Related Link
+#### Related Link
 <div>
     <a href="https://rin4ever xyz"><img src="https://media.discordapp.net/attachments/1154339185956757524/1154347863053193337/replicate-prediction-2b3vhgjbq3wrbi2gmqpggdd6hm.png" height="25" width="25"></a>
     &nbsp;
@@ -22,7 +22,7 @@ Host/Organizing [NorthMeetsSouth.audio](https://www.northmeetssouth.audio)<br>
     &nbsp;
 </div>
 
-### Languanges & Tools
+#### Languanges & Tools
 <div align="left" >
   <a href="https://developer.android.com"><img src="https://skillicons.dev/icons?i=androidstudio" height="26" width="26"></a>
   &nbsp;
