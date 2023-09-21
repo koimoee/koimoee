@@ -1,5 +1,5 @@
 ### Hello there 👋
-   <a> <img src="https://cdn.discordapp.com/attachments/1154339185956757524/1154355581591752755/20230921_164747.png" alt="surname" align="center" height="20%" width="20%"></a>
+   <a> <img src="https://cdn.discordapp.com/attachments/1154339185956757524/1154355581591752755/20230921_164747.png" alt="surname" align="center" height="50%" width="50%"></a>
 <br>
 
 #### A Developer by day ☼ and a Laravel Community Contributor by night ☾
@@ -69,6 +69,6 @@ Host/Organizing [NorthMeetsSouth.audio](https://www.northmeetssouth.audio)<br>
   </div>
  <br>
   <a href="https://rin4ever.xyz/" >
-   <img src="https://lanyard.kyrie25.me/api/886971572668219392?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square&idleMessage=Probably%20doing%20something%20else..." height="35%" width="35%">
+   <img src="https://lanyard.kyrie25.me/api/886971572668219392?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square&idleMessage=Probably%20doing%20something%20else..." height="60%" width="60%">
   </a>
   <br><br>
