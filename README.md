@@ -1,30 +1,19 @@
 <div id="mika" align="center">
   <h3> Hi there, I'm <a href="https://mikapikazo.is-a.dev">Mika</a> 👋 </h3>
-  <br>
+   <a href="#"><img src="https://cdn.discordapp.com/attachments/1154339185956757524/1154355581591752755/20230921_164747.png" align="center" height="350%" width="35%"></a>
+  &nbsp;
+  <br> <br>
 
   [![Discord Presence](https://lanyard.cnrad.dev/api/886971572668219392?bg=0D1017&borderRadius=27px&showDisplayName=true&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/886971572668219392)
-  <br> <br>
-  <a href="https://mikapikazo.is-a.dev"><img src="https://img.shields.io/website?label=mikaaamoe&style=for-the-badge&url=https%3A%2F%2Fmikapikazo.is-a.dev"></a>
-  <a href="https://discord.com"><img src="https://img.shields.io/discord/731756511138807879?label=discord&logo=discord&logoColor=white&style=for-the-badge"></a>
-  <a href="https://blog.rin4ever.xyz"><img src="https://img.shields.io/badge/MIKAPIKAZO.IS-A.DEV-5e40e4?style=for-the-badge"></a>
 
-```python
-print(f'Follow {mikaaamoe} on Github')
-	@@ -10,13 +10,13 @@ print(f'Follow {mikaaamoe} on Github')
-```
-
----
-
-<h3>Socials</h3>
-
+<h3>Social</h3>
 <div>
-    <a href="https://rin4ever xyz"><img src="https://i.imgur.com/HcY0gIm.png" height="25" width="25"></a>
+    <a href="https://rin4ever xyz"><img src="https://media.discordapp.net/attachments/1154339185956757524/1154347863053193337/replicate-prediction-2b3vhgjbq3wrbi2gmqpggdd6hm.png" height="25" width="25"></a>
     &nbsp;
     <a href="https://youtube.com/@mikapikazo_"><img src="https://i.imgur.com/WLd5nyq.png" height="25" width="25"></a>
     &nbsp;
     <a href="https://dsc.bio/realhymika"><img src="https://i.imgur.com/CZU39q2.png" height="25" width="25"></a>
     &nbsp;
-    <a href="https://instagram.com/"><img src="https://i.imgur.com/SCTr4il.png" height="25" width="25"></a>
 </div>
 
 <h3>Languages and Tools</h3>
@@ -48,6 +37,8 @@ print(f'Follow {mikaaamoe} on Github')
   &nbsp;
   <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" height="26" width="26"></a>
   &nbsp;
+ <div>
+ <div>
   <a href="https://unity.com/"><img src="https://skillicons.dev/icons?i=unity" height="26" width="26"></a>
   &nbsp;
   <a href="https://www.unrealengine.com/"><img src="https://skillicons.dev/icons?i=unreal" height="26" width="26"></a>
