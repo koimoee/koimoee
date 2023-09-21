@@ -63,7 +63,6 @@ Host/Organizing [NorthMeetsSouth.audio](https://www.northmeetssouth.audio)<br>
   <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" height="26" width="26"></a>
   &nbsp;
   </div>
- <br>
   <a href="https://rin4ever.xyz/" >
    <img src="https://lanyard.kyrie25.me/api/886971572668219392?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square&idleMessage=Probably%20doing%20something%20else..." height="80%" width="80%">
   </a>
