@@ -14,7 +14,7 @@ Host/Organizing [NorthMeetsSouth.audio](https://www.northmeetssouth.audio)<br>
 
 #### Related Link
 <div>
-    <a href="https://rin4ever xyz"><img src="https://media.discordapp.net/attachments/1154339185956757524/1154347863053193337/replicate-prediction-2b3vhgjbq3wrbi2gmqpggdd6hm.png" height="25" width="25"></a>
+    <a href="https://rin4ever.xyz"><img src="https://media.discordapp.net/attachments/1154339185956757524/1154347863053193337/replicate-prediction-2b3vhgjbq3wrbi2gmqpggdd6hm.png" height="25" width="25"></a>
     &nbsp;
     <a href="https://youtube.com/@mikapikazo_"><img src="https://i.imgur.com/WLd5nyq.png" height="25" width="25"></a>
     &nbsp;
