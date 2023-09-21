@@ -69,6 +69,6 @@ Host/Organizing [NorthMeetsSouth.audio](https://www.northmeetssouth.audio)<br>
   </div>
  <br>
   <a href="https://rin4ever.xyz/" >
-   <img src="https://lanyard.kyrie25.me/api/886971572668219392?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square&idleMessage=Probably%20doing%20something%20else..." height="60%" width="60%">
+   <img src="https://lanyard.kyrie25.me/api/886971572668219392?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square&idleMessage=Probably%20doing%20something%20else..." height="100%" width="100%">
   </a>
-  <br><br>
+  <br>
