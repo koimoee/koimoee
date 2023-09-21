@@ -44,10 +44,6 @@ Host/Organizing [NorthMeetsSouth.audio](https://www.northmeetssouth.audio)<br>
   &nbsp;
  <div>
  <div>
-  <a href="https://unity.com/"><img src="https://skillicons.dev/icons?i=unity" height="26" width="26"></a>
-  &nbsp;
-  <a href="https://www.unrealengine.com/"><img src="https://skillicons.dev/icons?i=unreal" height="26" width="26"></a>
-  &nbsp;
   <a href="https://www.w3schools.com/cs/index.php"><img src="https://skillicons.dev/icons?i=cs" height="26" width="26"></a>
   &nbsp;
   <a href="https://w3.org/html"><img src="https://skillicons.dev/icons?i=html" height="26" width="26"></a>
