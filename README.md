@@ -2,7 +2,7 @@
    <a> <img src="https://cdn.discordapp.com/attachments/1154339185956757524/1154355581591752755/20230921_164747.png" alt="surname" align="center" height="50%" width="50%"></a>
 <br>
 
-#### A Developer by day ☼ and a Laravel Community Contributor by night ☾
+#### A Developer by day ☼ and a Medium Community Contributor by night ☾
 
 A Developer at [WeFusionX](https://wfxlabs.rin4ever.xyz)<br>
 Host/Organizing [NorthMeetsSouth.audio](https://www.northmeetssouth.audio)<br>
@@ -14,7 +14,7 @@ Host/Organizing [NorthMeetsSouth.audio](https://www.northmeetssouth.audio)<br>
 
 #### Related Link
 <div>
-    <a href="https://rin4ever.xyz"><img src="https://media.discordapp.net/attachments/1154339185956757524/1154347863053193337/replicate-prediction-2b3vhgjbq3wrbi2gmqpggdd6hm.png" height="25" width="25"></a>
+    <a href="https://rin4ever.xyz"><img src="https://media.discordapp.net/attachments/1154339185956757524/1154649612330729472/prof-modified.png" height="25" width="25"></a>
     &nbsp;
     <a href="https://youtube.com/@mikapikazo_"><img src="https://i.imgur.com/WLd5nyq.png" height="25" width="25"></a>
     &nbsp;
