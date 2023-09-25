@@ -1,5 +1,5 @@
 ### Hello there 👋
-   <a> <img src="https://cdn.discordapp.com/attachments/1154339185956757524/1154355581591752755/20230921_164747.png" alt="surname" align="center" height="50%" width="50%"></a>
+   <a> <img src="https://cdn.discordapp.com/attachments/1154339185956757524/1155900944266055680/PhotoRoom-20230925_231707.png" alt="surname" align="center" height="60%" width="60%"></a>
 <br>
 
 #### A Developer by day ☼ and a Medium Community Contributor by night ☾
