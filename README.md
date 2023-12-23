@@ -14,11 +14,11 @@ Host/Organizing [NorthMeetsSouth.audio](https://www.northmeetssouth.audio)<br>
 
 #### Related Link
 <div>
-    <a href="https://rin4ever.xyz"><img src="https://media.discordapp.net/attachments/1154339185956757524/1154649612330729472/prof-modified.png" height="25" width="25"></a>
+    <a href="https://fypmoon.org"><img src="https://media.discordapp.net/attachments/1154339185956757524/1154649612330729472/prof-modified.png" height="25" width="25"></a>
     &nbsp;
     <a href="https://youtube.com/@mikapikazo_"><img src="https://i.imgur.com/WLd5nyq.png" height="25" width="25"></a>
     &nbsp;
-    <a href="https://dsc.bio/realhymika"><img src="https://i.imgur.com/CZU39q2.png" height="25" width="25"></a>
+    <a href="https://dsc.bio/kirisaki"><img src="https://i.imgur.com/CZU39q2.png" height="25" width="25"></a>
     &nbsp;
 </div>
 
@@ -64,7 +64,7 @@ Host/Organizing [NorthMeetsSouth.audio](https://www.northmeetssouth.audio)<br>
   &nbsp;
   </div>
     <br>
-  <a href="https://rin4ever.xyz/" >
+  <a href="https://fypmoon.org" >
    <img src="https://lanyard.kyrie25.me/api/886971572668219392?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square&idleMessage=Probably%20doing%20something%20else...">
   </a>
   <br>
