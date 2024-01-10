@@ -2,7 +2,7 @@
    <a> <img src="https://media.discordapp.net/attachments/1191405014749544569/1191437898361348126/20240102_024701.png" alt="surname" align="center" height="60%" width="60%"></a>
 <br>
 
-#### A Developer by day ☼ and a WeissX Community Contributor by night ☾
+#### A Developer by day ☼ and a WeissX Community Developers by night ☾
 
 Lead Systems Administrators at [WeissX Hosting](https://weissx.com)<br>
 
