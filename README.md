@@ -2,13 +2,10 @@
    <a> <img src="https://media.discordapp.net/attachments/1191405014749544569/1191437898361348126/20240102_024701.png" alt="surname" align="center" height="60%" width="60%"></a>
 <br>
 
-#### A Developer by day ☼ and a WeissX Community Developers by night ☾
-
-Lead Systems Administrators at [WeissX Hosting](https://weissx.com)<br>
-
+#### A Developer by day ☼ and a Medium Community Contributors by night ☾
 
 - ⚙️ I use daily: `.java`, `.js`, `.html`, `.css`, `.gradle`, `.kotlin`, `.ai`, `.ts`, `docker`
-- 💅 Designed: @pestphp, [WeissX](https://weissx.com), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm)
+- 💅 Designed: @pestphp, [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm)
 - 🌱 Learning all about **Open Source**
 
 #### Related Link
