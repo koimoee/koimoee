@@ -1,5 +1,5 @@
 ### Hello there 👋
-   <a> <img src="https://media.discordapp.net/attachments/1191405014749544569/1191437898361348126/20240102_024701.png" alt="surname" align="center" height="60%" width="60%"></a>
+   <a> <img src="https://media.discordapp.net/attachments/1197372623106085016/1197388660530749481/ba-stylenulla.top_11.png" alt="surname" align="center" height="60%" width="60%"></a>
 <br>
 
 #### A Developer by day ☼ and a Medium Community Contributors by night ☾
@@ -12,9 +12,7 @@
 <div>
     <a href="https://fypmoon.org"><img src="https://media.discordapp.net/attachments/1154339185956757524/1154649612330729472/prof-modified.png" height="25" width="25"></a>
     &nbsp;
-    <a href="https://youtube.com/@mikapikazo_"><img src="https://i.imgur.com/WLd5nyq.png" height="25" width="25"></a>
-    &nbsp;
-    <a href="https://dsc.bio/kirisaki"><img src="https://i.imgur.com/CZU39q2.png" height="25" width="25"></a>
+    <a href="https://fypmoon.org/me"><img src="https://i.imgur.com/CZU39q2.png" height="25" width="25"></a>
     &nbsp;
 </div>
 
