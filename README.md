@@ -63,4 +63,5 @@
   </a>
   <br>
     
-##### This code is licensed under CC BY-NC-ND.   
+##### This code is licensed under CC BY-NC-ND.
+##### Any My Art Licensed Under All Rights Reserved Notice.
