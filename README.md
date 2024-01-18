@@ -64,4 +64,4 @@
   <br>
     
 ##### This code is licensed under CC BY-NC-ND.
-##### Any My Art Licensed Under All Rights Reserved Notice.
+##### Any My ArtWork Licensed Under [Shiorii ProtectedArt License.](https://github.com/Shiioriii/Shiioriii/blob/main/Licensed.md)
