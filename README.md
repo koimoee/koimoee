@@ -64,4 +64,4 @@
   <br>
     
 ##### This code is licensed under CC BY-NC-ND.
-##### Any My ArtWork Licensed Under [Shiorii ProtectedArt License.](https://github.com/Shiioriii/Shiioriii/blob/main/SPALicense.md)
+##### Any My ArtWork Licensed Under [Shiorii ProtectedArt License.](https://fypmoon.org/license/spa)
