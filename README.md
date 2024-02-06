@@ -1,6 +1,5 @@
 ### Hello there 👋
-   <a> <img src="https://media.discordapp.net/attachments/1197372623106085016/1197388660530749481/ba-stylenulla.top_11.png" alt="surname" align="center" height="60%" width="60%"></a>
-<br>
+   <a> <img src="https://fypmoon.org/assets/images/1707235825163.png" alt="surname" align="center" height="70%" width="60%"></a>
 
 #### A Developer by day ☼ and a Medium Community Contributors by night ☾
 
