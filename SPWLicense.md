@@ -2,7 +2,7 @@
 
 **fypmoon.org**
 
-This website, fypmoon.org, and its contents, including text, images, and multimedia elements, are protected under the SPW License 2.0.
+This website, **fypmoon.org**, and its contents, including text, images, and multimedia elements, are protected under the **SPW License 2.0.**
 
 - Visitors may freely browse and interact with the content on this website.
 - Reproduction, distribution, or use of any part of this website's content requires explicit written permission.
