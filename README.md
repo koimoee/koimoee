@@ -8,7 +8,7 @@
 
 #### Related Link
 <div>
-    <a href="https://fypmoon.org"><img src="https://media.discordapp.net/attachments/1154339185956757524/1154649612330729472/prof-modified.png" height="25" width="25"></a>
+    <a href="https://fypmoon.org"><img src="https://fypmoon.org/assets/favicon/android-chrome-192x192.png" height="25" width="25"></a>
     &nbsp;
     <a href="https://fypmoon.org/me"><img src="https://i.imgur.com/CZU39q2.png" height="25" width="25"></a>
     &nbsp;
