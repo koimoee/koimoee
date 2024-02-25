@@ -1,4 +1,4 @@
-# Shiorii ProtectedArt License 2.0
+# Remi ProtectedArt License 2.0
 
 **Any Artwork by Shiorii, regardless of location**
 
@@ -13,4 +13,4 @@ Any unauthorized use or violation of these terms may result in legal action.
 
 For inquiries regarding the use of the artwork, please contact shiorii@fypmoon.org.
 
-© Shiorii Kawakami / シオリイカワカミ 2023
+© Remi Shiorii Kawakami / シオリイカワカミ 2023
