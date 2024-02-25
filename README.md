@@ -1,5 +1,5 @@
 ### Hello there 👋
-   <a> <img src="https://fypmoon.org/assets/images/1707235825163.png" alt="surname" align="center" height="40%" width="40%"></a>
+   <!-- <a> <img src="https://fypmoon.org/assets/images/1707235825163.png" alt="surname" align="center" height="40%" width="40%"></a> -->
 #### A Developer by day ☼ and a Medium Community Contributors by night ☾
 
 - ⚙️ I use daily: `.java`, `.js`, `.html`, `.css`, `.gradle`, `.kotlin`, `.ai`, `.ts`, `docker`
@@ -57,7 +57,7 @@
   </div>
  <br>
     
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Shiioriii?cardType=level&theme=material-palenight&preferLogin=false&Ring=82AAFF&Text=82AAFF&Title=82AAFF&Border=FFFFFF00&Background=FFFFFF00)](https://github.com/Shiioriii)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/oneofremii?cardType=level&theme=material-palenight&preferLogin=false&Ring=82AAFF&Text=82AAFF&Title=82AAFF&Border=FFFFFF00&Background=FFFFFF00)](https://github.com/oneofremii)
    
   <a href="https://fypmoon.org" >
    <img src="https://lanyard.kyrie25.me/api/886971572668219392?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square&idleMessage=Probably%20doing%20something%20else...">
