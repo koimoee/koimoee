@@ -1,4 +1,4 @@
-# Shiorii Protected Website License 2.0
+# Remi Protected Website License 2.0
 
 **fypmoon.org**
 
@@ -21,4 +21,4 @@ This license underscores the creator's dedication and passion. Users are urged t
 **Experience the Best:**
 fypmoon.org strives to provide an exceptional online experience. Explore, learn, and enjoy the unique content curated for you. Your positive engagement helps maintain the quality of this creative space.
 
-© Shiorii Kawakami / シオリイカワカミ 2023
+© Remi Shiorii Kawakami / シオリイカワカミ 2023
