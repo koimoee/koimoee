@@ -1,8 +1,9 @@
 ### Hello there 👋
    <!-- <a> <img src="https://fypmoon.org/assets/images/1707235825163.png" alt="surname" align="center" height="40%" width="40%"></a> -->
 #### A Developer by day ☼ and a Medium Community Contributors by night ☾
+<img src="https://komarev.com/ghpvc/?username=oneofremii&label=Profile%20views:&color=brightgreen">
 
-- ⚙️ I use daily: `.java`, `.js`, `.html`, `.css`, `.gradle`, `.kotlin`, `.ai`, `.ts`, `docker`
+- ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`
 - 💅 Designed: @pestphp, [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm)
 - 🌱 Learning all about **Open Source**
 
@@ -16,23 +17,17 @@
 
 #### Languanges & Tools
 <div align="left" >
-  <a href="https://developer.android.com"><img src="https://skillicons.dev/icons?i=androidstudio" height="26" width="26"></a>
-  &nbsp;
-  <a href="https://gradle.org/"><img src="https://skillicons.dev/icons?i=gradle" height="26" width="26"></a>
-  &nbsp;
-  <a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" height="26" width="26"></a>
-  &nbsp;
-  <a href="https://aiscripts.com"><img src="https://skillicons.dev/icons?i=aiscript" height="26" width="26"></a>
+  <a href="https://aiscripts.com"><img src="https://skillicons.dev/icons?i=postgres" height="26" width="26"></a>
   &nbsp;
   <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="26" width="26"></a>
   &nbsp;
   <a href="https://kotlinlang.org"><img src="https://skillicons.dev/icons?i=kotlin" height="26" width="26"></a>
   &nbsp;
-  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" height="26" width="26"></a>
-  &nbsp;
-  <a href="https://python.org"><img src="https://skillicons.dev/icons?i=python" height="26" width="26"></a>
-  &nbsp;
   <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" height="26" width="26"></a>
+  &nbsp;
+  <a href="https://javascript.com"><img src="https://skillicons.dev/icons?i=javascript" height="26" width="26"></a>
+  &nbsp;
+  <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" height="26" width="26"></a>
   &nbsp;
  <div>
  <div>
@@ -41,10 +36,6 @@
   <a href="https://w3.org/html"><img src="https://skillicons.dev/icons?i=html" height="26" width="26"></a>
   &nbsp;
   <a href="https://w3schools.com/css"><img src="https://skillicons.dev/icons?i=css" height="26" width="26"></a>
-  &nbsp;
-  <a href="https://javascript.com"><img src="https://skillicons.dev/icons?i=javascript" height="26" width="26"></a>
-  &nbsp;
-  <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" height="26" width="26"></a>
   &nbsp;
   <a href="https://www.electronjs.org/"><img src="https://skillicons.dev/icons?i=electron" height="26" width="26"></a>
   &nbsp;
