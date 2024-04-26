@@ -1,6 +1,5 @@
 ### Hello there 👋
    <!-- <a> <img src="https://fypmoon.org/assets/images/1707235825163.png" alt="surname" align="center" height="40%" width="40%"></a> -->
-#### A Developer by day ☼ and a Medium Community Contributors by night ☾
 <img src="https://komarev.com/ghpvc/?username=oneofremii&label=Profile%20views:&color=brightgreen">
 
 - ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`
