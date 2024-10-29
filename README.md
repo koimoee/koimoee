@@ -48,11 +48,15 @@
  <br>
     
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/koimoee?cardType=level&theme=material-palenight&preferLogin=false&Ring=82AAFF&Text=82AAFF&Title=82AAFF&Border=FFFFFF00&Background=FFFFFF00)](https://github.com/koimoee)
+
    
   <a href="https://fypmoon.org" >
    <img src="https://lanyard.kyrie25.me/api/886971572668219392?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square&idleMessage=Probably%20doing%20something%20else...">
   </a>
   <br>
+  <br>
+
+[![An image of @koimoee's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/koimoee)](https://holopin.io/@koimoee)
     
 ##### This code is licensed under CC BY-NC-ND.
 ##### Any My ArtWork Licensed Under [Proprietary License.](https://fypmoon.org/license/pl)
