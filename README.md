@@ -8,9 +8,9 @@
 
 #### Related Link
 <div>
-    <a href="https://fypmoon.org"><img src="https://fypmoon.org/assets/favicon/android-chrome-192x192.png" height="25" width="25"></a>
+    <a href="https://prplmoe.me"><img src="https://prplmoe.me/assets/favicon/android-chrome-192x192.png" height="25" width="25"></a>
     &nbsp;
-    <a href="https://fypmoon.org/me"><img src="https://i.imgur.com/CZU39q2.png" height="25" width="25"></a>
+    <a href="https://prplmoe.me/me"><img src="https://i.imgur.com/CZU39q2.png" height="25" width="25"></a>
     &nbsp;
 </div>
 
